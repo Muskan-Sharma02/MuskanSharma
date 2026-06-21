@@ -28,6 +28,6 @@ Skilled in HTML, CSS, JavaScript, and Bootstrap for creating responsive and inte
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Muskan-Sharma02"><img src="https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=64748b&icon_color=171717&bg_color=&hide_border=true&show_icons=true" alt="Muskan-Sharma02's GitHub stats" /></a>
+<a href="http://www.github.com/Muskan-Sharma02"><img src="https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Muskan-Sharma02's GitHub stats" /></a>
 
-<a href="https://github.com/Muskan-Sharma02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma02&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Muskan-Sharma02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma02&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
