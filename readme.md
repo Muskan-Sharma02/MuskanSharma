@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Motivated Computer Science graduate with a solid foundation in software development and web development , complemented by strong problem-solving, communication, and leadership skills, seeking opportunities to build impactful real-world solutions.
+Skilled in HTML, CSS, JavaScript, and Bootstrap for creating responsive and interactive web applications. Knowledgeable in SQL for database management, queries, and CRUD operations. Proficient in Java programming with strong understanding of object-oriented concepts, data structures, and application development. Experienced in building efficient, user-friendly, and scalable software solutions.
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [muskansharma0215@gmail.com](mailto:muskansharma0215@gmail.com)
