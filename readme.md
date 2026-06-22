@@ -1,77 +1,344 @@
-# Hi there, I'm Muskan Sharma! 👋
+<h1 align="center">
+  👋 Hi, I'm Muskan Sharma
+</h1>
 
-Welcome to my GitHub profile! I'm a passionate Web Developer and a Computer Science enthusiast from India.
-
-## 🌟 Highlights
-
-- **Web Development Enthusiast**: I enjoy building responsive, interactive, and user-friendly web applications using modern web technologies.
-- **Frontend Developer**: Skilled in creating clean and responsive interfaces using HTML, CSS, JavaScript, and Bootstrap.
-- **Backend & Database Learner**: Interested in developing efficient applications with SQL databases and server-side technologies.
-- **Java Programmer**: Strong understanding of Object-Oriented Programming, Data Structures, and application development using Java.
-
-## 🛠️ My Toolbox
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<h3 align="center">
+  💻 Web Developer | ☕ Java Programmer | 🚀 Problem Solver
+</h3>
 
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma02&layout=compact&theme=radical)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&theme=radical" alt="GitHub Streak" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Java+Developer;Database+Enthusiast;Building+Modern+Applications;Always+Learning+New+Technologies"/>
+</p>
 
 
-## 📚 What I'm Learning
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=45&fontAlignY=40&animation=fadeIn"/>
+</p>
 
-Currently, I'm improving my skills in full-stack development by exploring backend technologies, database management, REST APIs, and scalable application development.
-
-I'm continuously learning new tools and technologies to build efficient, secure, and user-friendly software solutions.
-
-
-## 🌐 Find Me Around the Web
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/muskan-sharma-622a913a5)
-- Check out my projects on [GitHub](https://github.com/Muskan-Sharma02)
-- Reach me via email: muskansharma0215@gmail.com
-
-
-## 🔮 What I'd Like to Learn Next
-
-1. Backend Development:
-   - Node.js
-   - Express.js
-   - REST APIs
-
-2. Cloud Technologies:
-   - AWS
-   - Docker
-   - Kubernetes
-
-3. Advanced Java Development:
-   - Spring Boot
-   - Microservices
-
-4. Database Technologies:
-   - MongoDB
-   - PostgreSQL
-
-
-## 🌱 Fun Fact
-
-When I'm not coding, I enjoy exploring new technologies, improving my programming skills, and working on creative projects.
 
 ---
 
-Feel free to explore my repositories and connect with me if you want to collaborate on exciting projects. 🚀
+# 👩‍💻 About Me
+
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+Hello! I'm **Muskan Sharma** 👋
+
+I am a passionate **Web Developer from India 🇮🇳** who loves building responsive, interactive, and scalable applications.
+
+My development journey focuses on:
+
+✨ Frontend Development  
+✨ Java Programming  
+✨ Database Management  
+✨ Problem Solving  
+✨ Software Engineering Concepts  
+
+
+I enjoy transforming ideas into digital experiences and continuously improving my skills by learning new technologies.
+
+<br>
+
+
+### 🎯 My Goals
+
+- Build efficient and scalable applications
+- Improve full-stack development skills
+- Explore modern backend technologies
+- Contribute to open-source projects
+
+
+<br clear="right"/>
+
+
+---
+
+# 🌟 Developer Journey
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+### 🎨 Frontend Development
+
+Creating beautiful and responsive user interfaces using:
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+
+</td>
+
+
+<td width="50%">
+
+
+### ☕ Programming
+
+Building strong programming foundations:
+
+- Java
+- OOP Concepts
+- Data Structures
+- Problem Solving
+
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>
+
+
+### 🗄 Database Development
+
+Working with:
+
+- SQL
+- MySQL
+- CRUD Operations
+- Database Design
+
+
+</td>
+
+
+<td>
+
+
+### 🚀 Software Development
+
+Exploring:
+
+- APIs
+- Backend Development
+- Application Architecture
+
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+</p>
+
+
+## 💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python"/>
+
+</p>
+
+
+## 🗄 Database & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
+
+</p>
+
+
+---
+
+# 🚀 Featured Work
+
+
+## 🌎 Web Applications
+
+Building modern web applications focused on:
+
+✔ Responsive Design  
+✔ User Experience  
+✔ Clean Architecture  
+✔ Interactive Interfaces  
+
+
+---
+
+
+## 🗃 Database Projects
+
+Developing database-driven applications with:
+
+✔ SQL Queries  
+✔ Data Management  
+✔ CRUD Operations  
+✔ Database Optimization  
+
+
+---
+
+
+## ☕ Java Projects
+
+Creating Java applications using:
+
+✔ Object-Oriented Programming  
+✔ Data Structures  
+✔ Logical Problem Solving  
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img width="49%" 
+src="https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma02&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img width="75%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muskan-Sharma02&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+
+---
+
+# 🐍 Contribution Activity
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Muskan-Sharma02/Muskan-Sharma02/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+---
+
+# 🌱 Currently Learning
+
+
+<div align="center">
+
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<br>
+
+### Backend
+
+Building APIs and server applications
+
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<br>
+
+### REST APIs
+
+Learning API architecture
+
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<br>
+
+### Spring Boot
+
+Advanced Java Development
+
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<br>
+
+### DevOps
+
+Deployment & containers
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+</div>
+
+
+---
+
+# 📚 Learning Roadmap
+
+
+```text
+Frontend Development
+          ↓
+Java Programming
+          ↓
+SQL & Database
+          ↓
+Backend Development
+          ↓
+Spring Boot
+          ↓
+Full Stack Developer 🚀
