@@ -203,7 +203,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharm
 </p>
 
 
-<p align="center">
+<p align="left">
 
 <img width="70%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&theme=tokyonight&hide_border=true"/>
@@ -223,7 +223,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&them
 # 🌱 Currently Learning
 
 
-<div align="center">
+<div align="left">
 
 
 <table>
@@ -243,7 +243,7 @@ Building server-side applications and APIs
 </td>
 
 
-<td align="center" width="25%">
+<td align="left" width="25%">
 
 <img src="https://skillicons.dev/icons?i=express"/>
 
@@ -256,7 +256,7 @@ Learning API design and communication
 </td>
 
 
-<td align="center" width="25%">
+<td align="left" width="25%">
 
 <img src="https://skillicons.dev/icons?i=spring"/>
 
@@ -293,7 +293,7 @@ Learning deployment technologies
 <br>
 
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,linux,mongodb"/>
 
