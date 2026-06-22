@@ -275,15 +275,15 @@ Full Stack Developer 🚀
 # 📫 Connect With Me
 <p align="center">
 
-<a href="https://github.com/Muskan-Sharma02">
+<a target="_blank" href="https://github.com/Muskan-Sharma02">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/muskan-sharma-622a913a5">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a target="_blank" href="https://www.linkedin.com/in/muskan-sharma-622a913a5">
+<img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:muskansharma0215@gmail.com">
+<a target="_blank" href="mailto:muskansharma0215@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
