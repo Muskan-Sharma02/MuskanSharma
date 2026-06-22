@@ -11,7 +11,9 @@
 </p>
 
 
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=45&fontAlignY=40&animation=fadeIn"/>
+</p>
 
 
 
