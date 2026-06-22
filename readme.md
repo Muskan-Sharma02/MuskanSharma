@@ -279,5 +279,8 @@ Full Stack Developer 🚀
 <a href="https://github.com/Muskan-Sharma02">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+<a href="https://www.linkedin.com/in/muskan-sharma-622a913a5">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 </p>
