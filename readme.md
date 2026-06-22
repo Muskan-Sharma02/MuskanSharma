@@ -227,20 +227,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&them
 </p>
 
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muskan-Sharma02&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
-
----
-
-
-
-
----
-
 # 🌱 Currently Learning
 
 
