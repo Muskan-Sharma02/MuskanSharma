@@ -6,11 +6,9 @@
   💻 Web Developer | ☕ Java Programmer | 🚀 Problem Solver
 </h3>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Java+Developer;Database+Enthusiast;Building+Modern+Applications;Always+Learning+New+Technologies"/>
 </p>
-
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=45&fontAlignY=40&animation=fadeIn"/>
@@ -18,14 +16,13 @@
 
 ---
 
-
 # 👩‍💻 About Me
 
 Hello! I'm **Muskan Sharma** 👋
 
-I am a passionate **Web Developer from India 🇮🇳** who loves building responsive, interactive, and scalable applications.
+I am a passionate **Web Developer based in India 🇮🇳** who enjoys building responsive, interactive, and scalable applications.
 
-My development journey focuses on:
+My development interests include:
 
 ✨ Frontend Development  
 ✨ Java Programming  
@@ -33,27 +30,20 @@ My development journey focuses on:
 ✨ Problem Solving  
 ✨ Software Engineering Concepts  
 
+I enjoy transforming ideas into digital experiences and continuously improving my skills by learning modern technologies.
 
-I enjoy transforming ideas into digital experiences and continuously improving my skills by learning new technologies.
+---
 
-<br>
-
-
-### 🎯 My Goals
+## 🎯 My Goals
 
 - Build efficient and scalable applications
 - Improve full-stack development skills
-- Explore modern backend technologies
+- Explore backend technologies
 - Contribute to open-source projects
-
-
-<br clear="right"/>
-
 
 ---
 
 # 🌟 Developer Journey
-
 
 <table>
 
@@ -61,44 +51,37 @@ I enjoy transforming ideas into digital experiences and continuously improving m
 
 <td width="50%">
 
+## 🎨 Frontend Development
 
-### 🎨 Frontend Development
-
-Creating beautiful and responsive user interfaces using:
+Creating responsive user interfaces using:
 
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
-
 </td>
-
 
 <td width="50%">
 
-
-### ☕ Programming
+## ☕ Programming
 
 Building strong programming foundations:
 
 - Java
-- OOP Concepts
+- Object-Oriented Programming
 - Data Structures
 - Problem Solving
-
 
 </td>
 
 </tr>
 
-
 <tr>
 
-<td>
+<td width="50%">
 
-
-### 🗄 Database Development
+## 🗄 Database Development
 
 Working with:
 
@@ -107,21 +90,17 @@ Working with:
 - CRUD Operations
 - Database Design
 
-
 </td>
 
+<td width="50%">
 
-<td>
-
-
-### 🚀 Software Development
+## 🚀 Software Development
 
 Exploring:
 
-- APIs
+- REST APIs
 - Backend Development
 - Application Architecture
-
 
 </td>
 
@@ -129,56 +108,42 @@ Exploring:
 
 </table>
 
-
 ---
 
 # 🛠️ Tech Stack
 
-
 ## 🌐 Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-
 </p>
 
-
-## 💻 Programming
+## 💻 Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,python"/>
-
 </p>
-
 
 ## 🗄 Database & Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
-
 </p>
-
 
 ---
 
 # 🚀 Featured Work
 
-
 ## 🌎 Web Applications
 
-Building modern web applications focused on:
+Building applications focused on:
 
 ✔ Responsive Design  
 ✔ User Experience  
 ✔ Clean Architecture  
 ✔ Interactive Interfaces  
 
-
 ---
-
 
 ## 🗃 Database Projects
 
@@ -189,9 +154,7 @@ Developing database-driven applications with:
 ✔ CRUD Operations  
 ✔ Database Optimization  
 
-
 ---
-
 
 ## ☕ Java Projects
 
@@ -201,23 +164,19 @@ Creating Java applications using:
 ✔ Data Structures  
 ✔ Logical Problem Solving  
 
-
 ---
 
 # 📊 GitHub Analytics
-
 
 <p align="center">
 
 <img width="49%" 
 src="https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-
 <img width="49%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma02&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 
 <p align="center">
 
@@ -226,46 +185,41 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&them
 
 </p>
 
+---
 
 # 🌱 Currently Learning
-
-
-<div align="center">
-
 
 <table>
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
 <br>
 
-### Backend
+### Node.js
 
-Building APIs and server applications
-
+Backend Development
 
 </td>
 
 
-<td align="center" width="25%">
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=express"/>
 
 <br>
 
-### REST APIs
+### Express.js
 
-Learning API architecture
-
+REST API Development
 
 </td>
 
 
-<td align="center" width="25%">
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=spring"/>
 
@@ -273,37 +227,30 @@ Learning API architecture
 
 ### Spring Boot
 
-Advanced Java Development
-
+Advanced Java Backend
 
 </td>
 
 
-<td align="center" width="25%">
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=docker"/>
 
 <br>
 
-### DevOps
+### Docker
 
-Deployment & containers
-
+Deployment & Containers
 
 </td>
-
 
 </tr>
 
 </table>
 
-</div>
-
-
 ---
 
 # 📚 Learning Roadmap
-
 
 ```text
 Frontend Development
@@ -317,3 +264,16 @@ Backend Development
 Spring Boot
           ↓
 Full Stack Developer 🚀
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Muskan-Sharma02">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
