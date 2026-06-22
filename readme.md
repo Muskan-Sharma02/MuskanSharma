@@ -1,58 +1,43 @@
-# 👋 Hey, I'm Muskan Sharma
+# 👋 Hi, I'm Muskan Sharma
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Web+Developer;Java+Programmer;Frontend+Enthusiast;Building+Creative+Solutions" />
+</p>
 
-## 🚀 Web Developer | Java Programmer | Problem Solver
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00F7FF&width=600&lines=Building+Modern+Web+Applications;Frontend+Development+Enthusiast;Java+%26+SQL+Developer;Always+Learning+New+Technologies" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff" />
 </p>
 
 
-### 👩‍💻 About Me
+## 🙋‍♀️ About Me
 
-Hello! I'm **Muskan Sharma**, a passionate developer from India 🇮🇳.
+Hi, I'm **Muskan Sharma**, a passionate Web Developer from India 🇮🇳.
 
-I enjoy creating responsive, interactive, and scalable applications. 
-My journey revolves around frontend development, programming fundamentals, database management, and exploring new technologies.
+I enjoy creating responsive, interactive, and user-friendly web applications.  
+I have experience with frontend technologies, Java programming, SQL databases, and software development concepts.
 
-I believe in writing clean code, solving real-world problems, and continuously improving my skills.
-
-<br>
-
-🌱 Currently exploring:
-- Backend Development
-- REST API Development
-- Advanced Java Concepts
-- Software Engineering Practices
-
-💡 Interested in:
-- Web Applications
-- Database Design
-- Full Stack Development
-- Open Source
-
+I love learning new technologies, solving problems, and building projects that turn ideas into real-world applications.
 
 ---
 
-# 🧰 Tech Arsenal
+## 💻 Tech Stack
 
 
-## 🎨 Frontend
+### 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 
-## 💻 Programming
+### ⚙️ Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 
-## 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
@@ -61,64 +46,80 @@ I believe in writing clean code, solving real-world problems, and continuously i
 
 ---
 
-# ⚡ My Development Philosophy
+## 🚀 What I Do
 
 
-<table>
-<tr>
-<td width="50%">
-
-### 🖥️ Clean Code
-
-Writing readable, maintainable, and efficient code.
-
-</td>
-
-<td width="50%">
-
-### 🚀 Continuous Growth
-
-Learning new technologies and improving every day.
-
-</td>
-</tr>
-
-
-<tr>
-<td width="50%">
-
-### 🎯 Problem Solving
-
-Breaking complex problems into simple solutions.
-
-</td>
-
-<td width="50%">
-
-### 🌎 Building Impact
-
-Creating applications that solve real problems.
-
-</td>
-</tr>
-
-</table>
+| Area | Skills |
+|---|---|
+| 🌐 Frontend | HTML, CSS, JavaScript, Bootstrap |
+| ☕ Programming | Java, OOP Concepts, Data Structures |
+| 🗄 Database | SQL, MySQL, CRUD Operations |
+| 🔧 Tools | Git, GitHub, VS Code |
+| 📚 Learning | Backend Development & APIs |
 
 
 ---
 
-# 📌 Featured Skills
+## 📌 Featured Projects
+
+
+### 🌎 Web Development Projects
+
+Building responsive websites with:
+- Clean UI design
+- Mobile-friendly layouts
+- Interactive user experiences
+
+
+### 🗃️ Database Applications
+
+Working on applications involving:
+- Database design
+- SQL queries
+- CRUD operations
+
+
+### ☕ Java Applications
+
+Developing programs using:
+- Object-Oriented Programming
+- Data Structures
+- Problem-solving techniques
+
+
+---
+
+## 📈 GitHub Analytics
+
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma02&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+## 🌱 Currently Learning
 
 
 ```text
-Frontend Development
-███████████████████░ 90%
-
-Java Programming
-████████████████░░░░ 85%
-
-SQL Database
-███████████████░░░░░ 80%
-
-Problem Solving
-██████████████░░░░░░ 75%
+Backend Development
+        ↓
+REST API Development
+        ↓
+Advanced Java
+        ↓
+Spring Boot
+        ↓
+Full Stack Development 🚀
