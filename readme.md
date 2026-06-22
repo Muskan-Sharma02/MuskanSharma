@@ -50,7 +50,7 @@ My development journey includes:
 
 ## 🌐 Frontend Development
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
 
@@ -59,7 +59,7 @@ My development journey includes:
 
 ## 💻 Programming Languages
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=java,python"/>
 
@@ -68,7 +68,7 @@ My development journey includes:
 
 ## 🗄️ Database & Tools
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
 
@@ -191,7 +191,7 @@ Building Java-based solutions using:
 # 📊 GitHub Analytics
 
 
-<p align="center">
+<p align="left">
 
 <img width="48%" height="180"
 src="https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
