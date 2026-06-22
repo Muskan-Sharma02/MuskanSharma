@@ -15,6 +15,10 @@
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=45&fontAlignY=40&animation=fadeIn"/>
 </p>
+
+---
+
+
 # 👩‍💻 About Me
 
 Hello! I'm **Muskan Sharma** 👋
@@ -232,14 +236,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&them
 
 ---
 
-# 🐍 Contribution Activity
 
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Muskan-Sharma02/Muskan-Sharma02/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 
 ---
