@@ -1,33 +1,77 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muskan Sharma.
-=======================================================================================================================================
+# Hi there, I'm Muskan Sharma! 👋
 
-Web Developer
--------------
+Welcome to my GitHub profile! I'm a passionate Web Developer and a Computer Science enthusiast from India.
 
-Skilled in HTML, CSS, JavaScript, and Bootstrap for creating responsive and interactive web applications. Knowledgeable in SQL for database management, queries, and CRUD operations. Proficient in Java programming with strong understanding of object-oriented concepts, data structures, and application development. Experienced in building efficient, user-friendly, and scalable software solutions.
+## 🌟 Highlights
+
+- **Web Development Enthusiast**: I enjoy building responsive, interactive, and user-friendly web applications using modern web technologies.
+- **Frontend Developer**: Skilled in creating clean and responsive interfaces using HTML, CSS, JavaScript, and Bootstrap.
+- **Backend & Database Learner**: Interested in developing efficient applications with SQL databases and server-side technologies.
+- **Java Programmer**: Strong understanding of Object-Oriented Programming, Data Structures, and application development using Java.
+
+## 🛠️ My Toolbox
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [muskansharma0215@gmail.com](mailto:muskansharma0215@gmail.com)
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma02&layout=compact&theme=radical)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma02&theme=radical" alt="GitHub Streak" />
 
 
-### Socials
+## 📚 What I'm Learning
 
-<p align="left"> <a href="https://www.github.com/Muskan-Sharma02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/muskan-sharma-622a913a5 " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+Currently, I'm improving my skills in full-stack development by exploring backend technologies, database management, REST APIs, and scalable application development.
 
-  
-
-### Skills
+I'm continuously learning new tools and technologies to build efficient, secure, and user-friendly software solutions.
 
 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a>
-</p>
+## 🌐 Find Me Around the Web
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/muskan-sharma-622a913a5)
+- Check out my projects on [GitHub](https://github.com/Muskan-Sharma02)
+- Reach me via email: muskansharma0215@gmail.com
 
 
-### Badges
+## 🔮 What I'd Like to Learn Next
 
-<b>My GitHub Stats</b>
+1. Backend Development:
+   - Node.js
+   - Express.js
+   - REST APIs
 
-<a href="http://www.github.com/Muskan-Sharma02"><img src="https://github-readme-stats.vercel.app/api?username=Muskan-Sharma02&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Muskan-Sharma02's GitHub stats" /></a>
+2. Cloud Technologies:
+   - AWS
+   - Docker
+   - Kubernetes
 
-<a href="https://github.com/Muskan-Sharma02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma02&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+3. Advanced Java Development:
+   - Spring Boot
+   - Microservices
+
+4. Database Technologies:
+   - MongoDB
+   - PostgreSQL
+
+
+## 🌱 Fun Fact
+
+When I'm not coding, I enjoy exploring new technologies, improving my programming skills, and working on creative projects.
+
+---
+
+Feel free to explore my repositories and connect with me if you want to collaborate on exciting projects. 🚀
