@@ -7,9 +7,6 @@
 </h3>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Java+Developer;Database+Enthusiast;Building+Modern+Applications;Always+Learning+New+Technologies"/>
-</p>
 
 
 <p align="center">
