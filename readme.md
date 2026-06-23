@@ -44,9 +44,9 @@ I enjoy transforming ideas into digital experiences and continuously improving m
 
 <table>
 
-<tr>
+<tr width="100%">
 
-<td width="100%">
+<td >
 
 ## 🎨 Frontend Development
 
@@ -59,7 +59,7 @@ Creating responsive user interfaces using:
 
 </td>
 
-<td width="100%">
+<td>
 
 ## ☕ Programming
 
@@ -76,7 +76,7 @@ Building strong programming foundations:
 
 <tr>
 
-<td width="100%">
+<td >
 
 ## 🗄 Database Development
 
@@ -89,7 +89,7 @@ Working with:
 
 </td>
 
-<td width="100%">
+<td >
 
 ## 🚀 Software Development
 
