@@ -76,7 +76,7 @@ Building strong programming foundations:
 
 <tr width="100%">
 
-<td width="100%" >
+<td width="50%" >
 
 ## 🗄 Database Development
 
@@ -89,7 +89,7 @@ Working with:
 
 </td>
 
-<td width="100%" >
+<td width="50%" >
 
 ## 🚀 Software Development
 
