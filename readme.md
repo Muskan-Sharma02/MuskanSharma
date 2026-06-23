@@ -42,13 +42,11 @@ I enjoy transforming ideas into digital experiences and continuously improving m
 
 # 🌟 Developer Journey
 
-<table   width="100%" align=center>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<tr width="100%">
-
-<td width="50%" >
-
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 
 Creating responsive user interfaces using:
 
@@ -59,9 +57,9 @@ Creating responsive user interfaces using:
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## ☕ Programming
+### ☕ Programming
 
 Building strong programming foundations:
 
@@ -71,14 +69,12 @@ Building strong programming foundations:
 - Problem Solving
 
 </td>
-
 </tr>
 
-<tr width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<td width="50%" >
-
-## 🗄 Database Development
+### 🗄 Database Development
 
 Working with:
 
@@ -89,9 +85,9 @@ Working with:
 
 </td>
 
-<td width="50%" >
+<td width="50%" valign="top">
 
-## 🚀 Software Development
+### 🚀 Software Development
 
 Exploring:
 
@@ -100,7 +96,6 @@ Exploring:
 - Application Architecture
 
 </td>
-
 </tr>
 
 </table>
