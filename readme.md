@@ -42,7 +42,7 @@ I enjoy transforming ideas into digital experiences and continuously improving m
 
 # 🌟 Developer Journey
 
-<table align=center>
+<table   width="100%" align=center>
 
 <tr width="100%">
 
